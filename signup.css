@@ -1,0 +1,12 @@
+.contain{
+    margin: 50px;
+}
+#logoimg{
+    width:100px;
+    height: 80px;
+    border-radius: 40%;
+    margin-left: 150px;
+}
+#reg{
+    margin-left:50px;
+}
